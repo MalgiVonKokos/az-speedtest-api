@@ -1,0 +1,6 @@
+# Build files
+**/obj
+**/bin
+
+**/appsettings.Development.json
+**/Properties
